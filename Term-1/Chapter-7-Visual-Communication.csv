@@ -1,0 +1,126 @@
+Section,Question Number,Question,Options,Answer
+
+I. Choose the appropriate answer,1,Which is the example for an Wimation?,"(a) sound communication
+(b) visual communication
+(c) vector communication
+(d) raster communication",(b) visual communication
+
+I. Choose the appropriate answer,2,Who uses the Photoshop software more?,"(a) Teacher
+(b) Doctor
+(c) Painter
+(d) Photographer",(d) Photographer
+
+I. Choose the appropriate answer,3,Which option is used in the Microsoft Photostory to upload the photos?,"(a) Begin a Story
+(b) Import Pictures
+(c) Settings
+(d) View your Story",(b) Import Pictures
+
+I. Choose the appropriate answer,4,Which technology shows the computer-drawn pictures as real picture?,"(a) Inkscape
+(b) Photo Story
+(c) Virtual Reality
+(d) Adobe Illustrator",(c) Virtual Reality
+
+I. Choose the appropriate answer,5,Which technology uses pixels to create pictures?,"(a) Vector
+(b) Raster
+(c) both
+(d) None",(b) Raster
+
+I. Choose the appropriate answer,6,Which software is used to create symbols?,"(a) Photoshop
+(b) Illustrator
+(c) Vector Graphics
+(d) Photostory",(c) Vector Graphics
+
+II. Match the following,1,Animations,(a) 3D,b
+
+II. Match the following,2,Raster,(b) Visual Communication,c
+
+II. Match the following,3,Vector,(c) Pixels,e
+
+II. Match the following,4,Virtual Reality,(d) Microsoft Photostory,a
+
+II. Match the following,5,Video Story,(e) Illustrator,d
+
+III. Answer the following Questions,1,What is Raster Graphics?,"1. Raster Graphics are created on the basis of PIXELS.
+2. The photos taken by camera and the photos scanned by a scanner are of the Raster type.
+3. When we enlarge this type of photos we could see the pictures as rectangular layers or grids."
+
+III. Answer the following Questions,2,Write notes on 2D and 3D pictures.,"The two dimensional 2D images have only the two dimensions – length and height. But three dimensional images (3D) have length, height and width. 3D images appear in front of our eyes like it happens in the real world."
+
+III. Answer the following Questions,3,Differentiate between Raster and Vector,"Raster graphics:
+1. Created on the basis of Pixels
+2. File types: .png, .jpg, .gif, .tiff, .psd
+3. Software used: Adobe Photoshop
+
+Vector graphics:
+1. Created on the basis of Mathematics
+2. File types: .eps, .ai, .pdf, .svg, .sketch
+3. Software used: Adobe Illustrator, Sketch"
+
+III. Answer the following Questions,4,With the help of Microsoft Photostory how will you create a video on a photostory?,"Microsoft Photostory can be used to make videos using photos. First we have to upload the photos and then select music for the video.
+
+Step 1: Open the application of 'Microsoft Photostory'. In that select 'Begin A New Story' and click on Next.
+Step 2: Click 'Import Picture' in the next screen. Now, the files in our computer will appear. Select Saved pictures for video.
+Step 3: Now we can input small text which is apt to the pictures. Then click on 'Next' and give animation to the videos. We can give audio effect also to these images. After finishing this click on 'Next'.
+Step 4: To provide background music, we can select a music file through 'Select Music' and click on 'Next'.
+Step 5: Next select a title for the story and select the place where it has to be saved in your computer. Then, through SETTINGS, change the format of the video.
+Step 6: Now our video is ready to view. Click 'VIEW YOUR STORY'. You can see your video now."
+
+Additional MCQs,1,Name the software which is used to beautify edit photos?,"(a) Photoshop
+(b) paint
+(c) Scratch
+(d) Notepad",(a) Photoshop
+
+Additional MCQs,2,The output we get from any application is commonly referred as?,"(a) folder
+(b) file
+(c) Box
+(d) Archive",(b) file
+
+Additional MCQs,3,_________ is a storage space that contains multiple files.,"(a) Folder
+(b) File
+(c) Record
+(d) Archire",(a) Folder
+
+Additional MCQs,4,_____ button at the left corner of the computer shows the list of all programs in the computer.,"(a) Stop
+(b) Start
+(c) Begin
+(d) New",(b) Start
+
+Additional MCQs,5,______ app used to draw and edit pictures.,"(a) Paint
+(b) Colout
+(c) Art
+(d) Picture",(a) Paint
+
+Additional Match the following,1,Raster Graphics,(a) Vector,e
+
+Additional Match the following,2,Picture,(b) Real image,a
+
+Additional Match the following,3,Beautify photos,(c) Operating system,d
+
+Additional Match the following,4,Virtual Reality in 3D,(d) Photoshop,b
+
+Additional Match the following,5,LINUX,(e) PIXELS,c
+
+Additional Questions,1,What is 'Photoshop'?,,"Photoshop is a software used to beautify and edit the photos. It is used by photographers."
+
+Additional Questions,2,Write the difference between a file and a folder?,"Files:
+1. The output from an application
+2. Files store data
+
+Folders:
+1. Storage space that contains multiple files
+2. Folders store files"
+
+Additional Questions,3,Write the types of vector Graphics files.,"Types of Vector Graphics Files:
+1. .eps (Encapsulated Post Script)
+2. .ai (Adobe Illustrator Artwork)
+3. .pdf (Portable Document Format)
+4. .svg (Scalable Vector Graphics)
+5. .sketch"
+
+Additional Questions,4,Name the softwares used to edit the Vector Graphics Images.,"1. Adobe Illustrator
+2. Sketch
+3. Inkscape"
+
+Additional Questions,5,Name the types of pictures?,"Pictures are of two types:
+1. Vector
+2. Raster"
